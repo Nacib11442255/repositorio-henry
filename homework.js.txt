@@ -1,0 +1,17 @@
+Variables: Las variables son identificadores como para un nombre 
+
+
+
+Strings: Son cadenas de caracteres que pueden representar texto 
+
+
+
+Funciones (argumentos, return): Es una accion especifica que se devuelve a quien llama a la funcion 
+
+
+
+Declaraciones if: Es un control que toma decisiones o un condicional que funcionan con una expresion situacional
+
+
+
+Valores booleanos (true, false): Explican si una situacion es verdadera o falsa 
