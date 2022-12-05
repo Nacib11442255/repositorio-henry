@@ -1,0 +1,25 @@
+Variables: Las variables son identificadores como para un nombre 
+
+
+
+Strings: Son cadenas de caracteres que pueden representar texto 
+
+
+
+Funciones (argumentos, return): Es una accion especifica que se devuelve a quien llama a la funcion 
+
+
+
+Declaraciones if: Es un control que toma decisiones o un condicional que funcionan con una expresion situacional
+
+
+
+Valores booleanos (true, false): Explican si una situacion es verdadera o falsa 
+
+For: Se utiliza para actualizar o incrementar la variable del contador.
+
+&&: Sirve para comparar 2 datos al mismo tiempo si los dos son verdaderos arrojara true si los dos son falsos arrojara false 
+
+||: Sirve para comparar 2 datos al mismo tiempo si son iguales se ejecuta si son iguales o si una es diferente a la otra, si son dos diferentes o falsas no se ejecutara ninguna accion.
+
+!: Devuelve lo contrario a lo que significa en terminos booleanos si se acomopaña con el signo ! (!(1===1)) devolvera false.
